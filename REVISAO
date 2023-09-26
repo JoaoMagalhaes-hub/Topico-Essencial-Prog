@@ -1,0 +1,35 @@
+- Qual comando no terminal linux utilizado para acessar uma pasta?
+R: cd
+
+- O que significa o estado "Committed" ?
+R: Arquivo modificado e está salvo no repositório local
+
+- Comando utilizado para listar os itens dentro de um diretório no terminal Linux e Windows(a partir do win 10):
+R: ls
+
+- O que é Github ? 
+R:Github é um repositório que fornece a hospedagem para o desenvolvimento de software
+
+- Escreva o comando que transfere TODAS as alterações do código de trabalho para a área de staging
+R: csc sas 
+
+- O que é Git ? 
+R:Git é um sistema open-source de controle de versões gratuito e distribuído projetado para trabalhar com diversos tipos de projetos
+
+- Escreva o comando que permite você realizar o download de um repositório:
+R: git clone
+
+- O que significa o estado modificado ?
+R:Alterou o arquivo, mas não deu o commit para o seu banco de dados local.
+
+- O arquivo que está sendo atualizado no computador local possui três estados, quais são eles ?
+R: Alterado, Stage, Committed
+
+- Qual comando é utilizado para realizar um upload de um arquivo para o GitHub?
+R: git push origin
+
+- Qual comando que inicia um repositório local git ?
+R: git init
+
+- EXTRA! - Qual o comando para criar a "branch mybranch" ?
+R: git branch mybranch
